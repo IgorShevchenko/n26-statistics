@@ -4,11 +4,11 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>com.igor</groupId>
-	<artifactId>n26</artifactId>
+	<artifactId>n26-statistics</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
-	<name>n26-stats</name>
+	<name>n26-statistics</name>
 	<description>Demo project for Spring Boot</description>
 
 	<parent>
